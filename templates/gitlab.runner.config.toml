@@ -1,0 +1,4 @@
+concurrent = ${concurrent}
+check_interval = 0
+
+listen_address = ":${metrics_port}"
